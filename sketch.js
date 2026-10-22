@@ -22,5 +22,5 @@ function setup() {
   line(77, 470, 77, height);
   line(613, 470, 613, height);
 
-  line(365, 705, 613, 705);
+  line(365, 715, 613, 715);
     }
