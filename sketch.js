@@ -11,6 +11,6 @@ function setup() {
     fill(10, 35, 92)
     rect(300, 300, 55, 435);
 
-    strokeweight(10);
+    strokeWeight(10);
     line(365,0,365, height)
 }
