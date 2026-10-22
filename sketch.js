@@ -1,16 +1,16 @@
 function setup() {
-  createCanvas(800, 784);
+  createCanvas(800, 750);
   background(245);
 
   fill(205,40,4)
-    rect(0,0, 355, 265);
+    rect(0,0, 365, 278);
 
-    fill(250, 200, 3)
-    rect(0, 300, 55, 485);
+    fill(252, 195, 6)
+    rect(0, 470, 77, 280);
 
-    fill(10, 35, 92)
-    rect(300, 300, 55, 435);
+    fill(10, 40, 92)
+    rect(365, 470, 248, 245);
 
-    strokeWeight(10);
+    strokeWeight(12);
     line(365,0,365, height)
-}
+    }
